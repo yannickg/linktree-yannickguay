@@ -46,7 +46,7 @@ export default function ResumePage() {
               Supporting organizations in the development, evolution, and maintenance of critical software systems while adhering to industry best practices.
             </p>
             <p>
-              Experienced professional with over 20 years of technical expertise, I specialize in developing and managing high-performing, secure software solutions. Adept at collaborating with internal and external teams, I ensure application availability, performance, and compliance while minimizing disruptions. Passionate about continuous learning and innovation, I adapt to business needs and deliver creative, effective solutions.
+              Experienced professional with over 25 years of technical expertise, I specialize in developing and managing high-performing, secure software solutions. Adept at collaborating with internal and external teams, I ensure application availability, performance, and compliance while minimizing disruptions. Passionate about continuous learning and innovation, I adapt to business needs and deliver creative, effective solutions.
             </p>
           </section>
 
