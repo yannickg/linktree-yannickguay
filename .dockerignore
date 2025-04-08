@@ -1,0 +1,55 @@
+# Version control
+.git
+.gitignore
+.github
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+.nyc_output
+
+# Next.js build output
+.next
+out
+
+# Misc
+.DS_Store
+*.pem
+.idea
+.vscode
+*.swp
+*.swo
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+.env
+
+# Docker related
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Docs
+README.md
+LICENSE
+*.md
+
+# Build artifacts
+dist
+build 
